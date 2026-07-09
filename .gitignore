@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# LaTeX build / render byproducts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.pdf
+_review_png/
+_review/*.png
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
